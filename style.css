@@ -13,6 +13,8 @@ body {
     box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* efek bayangan */
     text-align: center; /* menengahkan semua texs di dalam kartu */
 }
+
+
 .kartu-profil img {
     width: 150px;
     border-radius: 50%; /* trik utama membuat gambar persegi menjadi lingkaran sempurna */
